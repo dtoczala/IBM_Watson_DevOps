@@ -1,7 +1,9 @@
 # IBM_Watson_DevOps
 A collection of Python code and examples showing how to implement a DevOps pipeline.
 
-** Author : ** [D. Toczala](https://github.com/dtoczala)
+**Author :** [D. Toczala](https://github.com/dtoczala)
+
+**Contributors:** None yet
 
 ## Description
 
