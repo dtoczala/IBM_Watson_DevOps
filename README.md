@@ -13,11 +13,11 @@ The vision for this is illustrated in the slide deck called "Cognitive_DevOps_Ar
 
 ## Contents
 
-This project consists of a couple of Python modules.  One is for common DevOps operations that will be performed with IBM Watson components and services.  One is more of an "example" of Python code that we use to test out these Python DevOps operations.
+This project consists of a large Python notebook.  This notebook can be copied and run (once you have modified it for yourself.  It is probably best if you brek it into pieces, as one of the cells should be pulled into it's own _IBM_CogDevOps.py_ file and then can be imported into any project.  The remainder of the code is more of an "example" of Python code that we use to test out these Python DevOps operations.
 
 ### The Example project
 
-The example project is called _SampleProject.py_.  It uses the IBM_Watson_DevOps module.
+The example project is called _Cognitive\_DevOps\_Main.ipynb_.  It uses the IBM_Watson_DevOps module.
 
 ### The Common DevOps Module
 
